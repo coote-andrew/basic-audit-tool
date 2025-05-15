@@ -53,5 +53,5 @@ This tool was developed iteratively with the assistance of ChatGPT (OpenAI) thro
 - Ensuring resumability and fault tolerance
 - Human-centric design for quick manual triage
 
-- chat is attached [Slightly censored chat](CensoredChat.md) with a few lines change just to remove some specifics of what I was working on - still waiting on ethics!
+- chat is attached [Slightly censored chat](CensoredChat.md) with a few lines change just to remove some specifics of what I was working on
 
