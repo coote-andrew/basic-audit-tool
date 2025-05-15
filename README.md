@@ -1,4 +1,4 @@
-# Clinical Note Review Tool for Nitrous Oxide Identification
+# Clinical Note Review Tool
 
 This is a lightweight Python script designed to manually review clinical notes related to a medical condition, using simple keyboard inputs.
 
