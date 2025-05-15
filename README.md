@@ -43,7 +43,7 @@ The tool is part of a digital phenotyping pipeline to identify patients presenti
 
 ---
 
-## 🧠 Development Process
+## Development Process
 
 This tool was developed iteratively with the assistance of ChatGPT (OpenAI) through a conversational process. Requirements were refined across multiple improvements, including:
 
@@ -55,10 +55,3 @@ This tool was developed iteratively with the assistance of ChatGPT (OpenAI) thro
 
 - chat is attached [Slightly censored chat](CensoredChat.md) with a few lines change just to remove some specifics of what I was working on - still waiting on ethics!
 
----
-
-## ▶️ Getting Started
-
-1. Run the script in a Jupyter Notebook:
-   ```
-   jupyter notebook review_script.ipynb
