@@ -1,0 +1,7 @@
+﻿TOTAL_FLAGS,PAT_ENC_CSN_ID,NOTE_ID,IP_NOTE_TYPE_C,CRT_DTTM,NOTE_TEXT
+1,100,12345,5,1/01/2025 10:00,Test discharge summary containing PHRASE 1
+2,102,12346,5,1/01/2025 10:00,Test discharge summary containing PHRASE 1
+3,101,12347,5,1/01/2025 10:00,Test discharge summary containing PHRASE 1
+1,100,12348,1,1/01/2025 10:00,Test ward round
+2,102,12349,1,1/01/2025 10:00,Test ward round
+3,101,12350,1,1/01/2025 10:00,Test ward round
